@@ -1,6 +1,6 @@
 {
   "name": "@naqvi/math",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "this is our first package",
   "main": "index.js",
   "scripts": {
